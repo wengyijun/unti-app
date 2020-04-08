@@ -47,3 +47,11 @@ static  静态资源
 logo.png
 
 
+https://uniapp.dcloud.io/
+
+npm install sass-loader node-sass
+在style标签中加入属性<style lang='scss'>
+  
+  
+  
+  
